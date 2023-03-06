@@ -1,6 +1,6 @@
 # React-Native Expo dentist app
 
-Expo, React-Native, Styled-Components
+Expo CLI, react-native-maps, expo-location, Permissions, lodash
 
 ## Available scripts to start application
 
