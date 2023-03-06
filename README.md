@@ -1,4 +1,4 @@
-# React-Native Expo dentist app
+# React-Native Expo coffee shops map app
 
 Expo CLI, react-native-maps, expo-location, Permissions, lodash
 
